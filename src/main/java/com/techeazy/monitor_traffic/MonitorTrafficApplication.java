@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class MonitorTrafficApplication {
-	//Trying Git locally -corrected , analytics branch 
+	//Trying Git locally -corrected , analytics branch -20Aug
 	public static void main(String[] args) {
 	//Trying Git locally -corrected , analytics branch,mage enhanced 
 
