@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MonitorTrafficApplication {
 	//Trying Git locally -corrected , analytics branch 
 	ublic static void main(String[] args) {
+	//Trying Git locally -corrected , analytics branch,mage enhanced 
+
 		SpringApplication.run(MonitorTrafficApplication.class, args);
 	}
 
